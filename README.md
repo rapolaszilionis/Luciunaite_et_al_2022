@@ -2,7 +2,7 @@
 
 
 ### Data
-Large data files used by the code in this repository are stored on [GEO](link_to_add_when_avail).
+Large data files used by the code in this repository are stored on [GEO](link_to_add_when_avail)[GEO repository not setup yet].
 
 
 ### Methods
